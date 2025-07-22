@@ -113,3 +113,16 @@ padding: 15px;
 text-align: center;
 
 }
+.send{background-color: rgb(201, 191, 199);
+font-size: 20px;
+padding: 20px;
+border-radius: 15px;
+border: none}
+
+.last{background-color: rgb(255, 196, 242);
+    padding: 60px;
+text-align: center;
+}
+.last input{ font-size: 25px;
+padding: 5px 75px;
+border: none;}
