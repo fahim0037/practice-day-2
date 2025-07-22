@@ -1,1 +1,13 @@
-.temp {background-color: red;}
+.temp {background:linear-gradient(
+    151.85deg,rgb(167, 245, 250)14.537%,
+    rgb(194, 230, 247)84.486%);}
+#button {background-color: #8aff9a;
+font-size: 200px;
+padding: 200 px;
+border-radius: 35px;
+text-align: center;
+
+}
+#button a{text-decoration: none;
+ 
+}
